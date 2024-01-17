@@ -4,7 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 1st year UTM student in Bachelor of Computer Science (Data Engineering)
 -----------------------------------------------------------------------
 
-Background Education
+Background Education <\p>
+❤️ Sekolah Kebangsaan Putrajay Presint 18(1) (2011-2016) <\p>
+❤️ Sekolah Menengah Sains Seri Puteri, Kuala Lumpur (2017-2022) <\p>
+❤️ Kolej Mara Kuala Nerang, Kedah (2022-2023) <\p>
 
 * 🌍  I'm based in UTM, Skudai, Johor, Malaysia
 * ✉️  You can contact me at [ainnurnabila@graduate.utm.my](mailto:ainnurnabila@graduate.utm.my)
