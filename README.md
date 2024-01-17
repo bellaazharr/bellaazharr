@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 1st year UTM student in Bachelor of Computer Science (Data Engineering)
 -----------------------------------------------------------------------
 
-I am a member of Citra Daksina Club, Aksara Resak Club and Sports and Recreational Club in Universiti Teknologi Malaysia
+I am a member of Citra Daksina Club, Aksara Resak Club and Sports and Recreational Club in Universiti Teknologi Malaysia.
 
 * 🌍  I'm based in UTM, Skudai, Johor, Malaysia
 * ✉️  You can contact me at [ainnurnabila@graduate.utm.my](mailto:ainnurnabila@graduate.utm.my)
