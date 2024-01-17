@@ -4,11 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 1st year UTM student in Bachelor of Computer Science (Data Engineering)
 -----------------------------------------------------------------------
 
-Greetings! I am an avid enthusiast of life's vibrant rhythms, finding joy in both the graceful movements of dance and the delightful journey of food exploration. As a dedicated dancer, I immerse myself in the world of rhythm and expression, using dance as a powerful means of self-discovery and creative release. Whether it's the fluidity of contemporary dance or the energetic beats of salsa, I find solace in the language of movement. Beyond the dance floor, my passion for food hunting takes me on a delectable adventure through diverse cuisines and culinary experiences. Exploring hidden gems in bustling food markets or seeking out cozy cafes with unique flavors, I embrace the opportunity to savor the rich tapestry of tastes that the world has to offer. In the intersection of dance and food, I discover the perfect balance that adds flavor to the chapters of my life.
+Background Education
 
 * 🌍  I'm based in UTM, Skudai, Johor, Malaysia
 * ✉️  You can contact me at [ainnurnabila@graduate.utm.my](mailto:ainnurnabila@graduate.utm.my)
 * 🧠  I'm learning Computer Science (Data Engineering)
+* ⚡  Greetings! I am an avid enthusiast of life's vibrant rhythms, finding joy in both the graceful movements of dance and the delightful journey of food exploration. As a dedicated dancer, I immerse myself in the world of rhythm and expression, using dance as a powerful means of self-discovery and creative release. Whether it's the fluidity of contemporary dance or the energetic beats of salsa, I find solace in the language of movement. Beyond the dance floor, my passion for food hunting takes me on a delectable adventure through diverse cuisines and culinary experiences. Exploring hidden gems in bustling food markets or seeking out cozy cafes with unique flavors, I embrace the opportunity to savor the rich tapestry of tastes that the world has to offer. In the intersection of dance and food, I discover the perfect balance that adds flavor to the chapters of my life.
 
 ### Skills
 
