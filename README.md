@@ -1,13 +1,13 @@
 <div align="center">
 
-# Hi, I'm Ain Nurnabila binti Mohd Azhar, or you can call me Bella 👋
+# Hi, I'm AIN NURNABILA BINTI MOHD AZHAR 👋
 
 ### Computer Science Undergraduate @ Universiti Teknologi Malaysia (UTM)
 **Data Engineering · Business Intelligence · App Development**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ain-nurnabila-39885529a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ainnurnbila/)
 [![Portfolio](https://img.shields.io/badge/E--Portfolio-View-00B894?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/bellaazharr/eportfolio-SECP3843)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ainnurnabila@graduate.utm.my)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bellaaazharr28@gmail.com)
 
 </div>
 
@@ -15,13 +15,13 @@
 
 ### 🎯 About Me
 
-I'm a Computer Science undergraduate specializing in Data Engineering and Business Intelligence, focused on turning raw, messy data into something a business can actually act on.
+I'm a third-year Computer Science undergraduate specializing in Data Engineering, with hands-on experience building data pipelines, enterprise systems, and mobile applications for real organizations — not just coursework.
 
-Most of my coursework comes down to a single recurring question: *what's the right level of structure for this data, given the time and tools I have?* When a web scraper's HTML parser broke on a live site, the fix wasn't more code — it was finding the internal API the site already used. When designing a pipeline for flight price data, the fix isn't one big transformation — it's separating raw ingestion, cleaning, and business logic into distinct layers so each one can be debugged and trusted on its own. That kind of judgment is what I'm building toward.
+Most of my work comes down to a single recurring question: *what's the right level of structure for this data, given the time and tools I have?* When a web scraper's HTML parser broke on a live site, the fix wasn't more code — it was finding the internal API the site already used. When building a loan and savings system for Koperasi KADA Kelantan, the fix wasn't one big form — it was separating the loan module from the savings module so each could be tested and trusted independently. That kind of judgment is what I'm building toward.
 
-- 🔭 **Currently building:** a flight price prediction pipeline in Apache Spark using a Bronze–Silver–Gold–Curated medallion architecture, sourcing live and historical data from Kaggle, IEEE DataPort, and the Open-Meteo API
-- 📊 **Also contributing to:** a Business Intelligence group project, where I'm responsible for the insights and business recommendations phase using Alteryx and Tableau
-- 🌱 **Currently sharpening:** data modelling fundamentals — ER diagrams, normalisation, star schemas, and medallion architecture design
+- 🔭 **Currently building:** a flight price prediction pipeline in Apache Spark (PySpark, MLlib), with an accompanying IEEE academic paper, under lecturer supervision
+- 💼 **Real-world systems delivered:** a loan & savings application system for Koperasi Kakitangan KADA Kelantan Berhad, in collaboration with Lembaga Kemajuan Pertanian Kemubu (KADA); a Staff Leave Management subsystem built and deployed on SAP Business Application Studio; a Student Management system for IKM Johor Bahru (TVET MARA), built in Flutter and deployed live on Netlify
+- 📜 **Certified in:** Microsoft Azure Data Fundamentals (AZ-900), Alteryx Designer Core, and AWS Academy Cloud Foundations & Cloud Developing
 - 📫 Open to internships and collaborations in data engineering, analytics, or backend-focused development
 
 ---
@@ -29,8 +29,7 @@ Most of my coursework comes down to a single recurring question: *what's the rig
 ### 🎓 Education
 
 **Universiti Teknologi Malaysia (UTM)**
-Bachelor of Computer Science Data Engineering with Honor — Faculty of Computing
-
+Bachelor of Computer Science (Data Engineering) with Honours — CGPA 3.31
 *Coursework: Data Engineering, Business Intelligence, Cloud Computing, High Performance Data Processing*
 
 ---
@@ -61,6 +60,35 @@ Bachelor of Computer Science Data Engineering with Honor — Faculty of Computin
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
+
+---
+
+### 💼 Selected Projects
+
+**Flight Price Prediction Pipeline** *(in progress)*
+Built a data pipeline using Apache Spark (PySpark, MLlib) to predict flight prices, paired with an IEEE-format academic paper written under lecturer supervision. Currently in pipeline testing and documentation.
+
+**Loan & Savings System — Koperasi Kakitangan KADA Kelantan Berhad**
+Built a loan application system and a savings module for a real cooperative, in collaboration with Lembaga Kemajuan Pertanian Kemubu (KADA).
+
+**Staff Leave Management Subsystem — SAP Business Application Studio**
+Deployed a Leave Management subsystem within a broader Staff Human Resource system, with full process documentation.
+
+**Student Management System — IKM Johor Bahru (TVET MARA)**
+Built a student management system in Flutter, including user registration and timetable upload modules, and deployed it live on Netlify.
+
+**Interactive Jumping Pou Game (C++)**
+Built a working game from scratch in C++, with accompanying full report documentation.
+
+---
+
+### 📜 Certifications
+
+- Microsoft Certified: Azure Data Fundamentals (AZ-900)
+- Alteryx Designer Core
+- AWS Academy — Cloud Foundations (Training Badge)
+- AWS Academy — Cloud Developing (Training Badge)
+- AWS Academy Lab Project — Cloud Data Pipeline Builder
 
 ---
 
