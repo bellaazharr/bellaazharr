@@ -29,7 +29,8 @@ Most of my coursework comes down to a single recurring question: *what's the rig
 ### 🎓 Education
 
 **Universiti Teknologi Malaysia (UTM)**
-Bachelor of Computer Science — Faculty of Computing
+Bachelor of Computer Science Data Engineering with Honor — Faculty of Computing
+
 *Coursework: Data Engineering, Business Intelligence, Cloud Computing, High Performance Data Processing*
 
 ---
