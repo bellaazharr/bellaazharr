@@ -15,14 +15,22 @@
 
 ### 🎯 About Me
 
-I'm a Computer Science student in the Data Engineering & Business Intelligence track, currently exploring how raw, messy data becomes something a business can actually act on — from building cloud pipelines to designing dashboards people enjoy using.
+I'm a Computer Science undergraduate specializing in Data Engineering and Business Intelligence, focused on turning raw, messy data into something a business can actually act on.
 
-I like projects that force me to make trade-offs: speed vs. accuracy, automation vs. control, simple vs. scalable. Most of what's in this profile came from exactly those kinds of decisions.
+Most of my coursework comes down to a single recurring question: *what's the right level of structure for this data, given the time and tools I have?* When a web scraper's HTML parser broke on a live site, the fix wasn't more code — it was finding the internal API the site already used. When designing a pipeline for flight price data, the fix isn't one big transformation — it's separating raw ingestion, cleaning, and business logic into distinct layers so each one can be debugged and trusted on its own. That kind of judgment is what I'm building toward.
 
-- 🔭 Currently working on **flight price prediction** using Apache Spark and a Bronze–Silver–Gold–Curated medallion architecture
-- 📊 Also contributing to a **Business Intelligence group project** analyzing market insights using Alteryx + Tableau
-- 🌱 Learning to think in **pipelines, not just scripts** — idempotency, schema drift, and data quality checks
-- 📫 Open to internships and collaborations in data engineering, analytics, or product-focused dev work
+- 🔭 **Currently building:** a flight price prediction pipeline in Apache Spark using a Bronze–Silver–Gold–Curated medallion architecture, sourcing live and historical data from Kaggle, IEEE DataPort, and the Open-Meteo API
+- 📊 **Also contributing to:** a Business Intelligence group project, where I'm responsible for the insights and business recommendations phase using Alteryx and Tableau
+- 🌱 **Currently sharpening:** data modelling fundamentals — ER diagrams, normalisation, star schemas, and medallion architecture design
+- 📫 Open to internships and collaborations in data engineering, analytics, or backend-focused development
+
+---
+
+### 🎓 Education
+
+**Universiti Teknologi Malaysia (UTM)**
+Bachelor of Computer Science — Faculty of Computing
+*Coursework: Data Engineering, Business Intelligence, Cloud Computing, High Performance Data Processing*
 
 ---
 
@@ -82,7 +90,7 @@ Inside you'll find:
 
 <div align="center">
 
-*"Data tells a story — my job is figuring out how to make it readable."*
+*Building toward a career where data engineering and clear thinking meet.*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bellaazharr&color=00B894&style=flat-square&label=Profile+Views)
 
