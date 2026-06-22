@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ain Nurnabila binti Mohd Azhar 👋
+# Hi, I'm Ain Nurnabila binti Mohd Azhar, or you can call me Bella 👋
 
 ### Computer Science Undergraduate @ Universiti Teknologi Malaysia (UTM)
 **Data Engineering · Business Intelligence · App Development**
@@ -76,15 +76,14 @@ Bachelor of Computer Science — Faculty of Computing
 
 ### 📁 Featured: E-Portfolio
 
-> 🎓 All my coursework, projects, and reflections for SECP3843 (Special Topic in Data Engineering) and related courses, organized by category.
+> 🎓 My full academic record at UTM — coursework, projects, and reflections, organized by semester and course.
 
 **[→ View my full E-Portfolio repository](https://github.com/bellaazharr/eportfolio-SECP3843)**
 
 Inside you'll find:
-- Industry talk & visit assignments (poster, video, report, IEEE paper)
-- Course assignment archive — Data Engineering, Business Intelligence, Cloud Computing
-- Design Thinking prototypes
-- Personal reflections on what each project taught me
+- A complete academic record spanning all semesters, organized course-by-course
+- Current-semester deep dives: Apache Spark flight price prediction (SECP3843), BI insights work (SECP3213), high-performance data processing projects (SECP3133), and a Flutter + Supabase client project (SECP3106)
+- Personal reflections connecting each project back to what it taught me
 
 ---
 
