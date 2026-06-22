@@ -1,35 +1,89 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ain Nurnabila
-=====================================================================================================================================
+<div align="center">
 
-1st year UTM student in Bachelor of Computer Science (Data Engineering)
------------------------------------------------------------------------
+# Hi, I'm Ain Nurnabila binti Mohd Azhar 👋
 
-Background Education </p>
-❤️ Sekolah Kebangsaan Putrajay Presint 18(1) (2011-2016) </p>
-❤️ Sekolah Menengah Sains Seri Puteri, Kuala Lumpur (2017-2022) </p>
-❤️ Kolej Mara Kuala Nerang, Kedah (2022-2023) </p>
+### Computer Science Undergraduate @ Universiti Teknologi Malaysia (UTM)
+**Data Engineering · Business Intelligence · App Development**
 
-* 🌍  I'm based in UTM, Skudai, Johor, Malaysia
-* ✉️  You can contact me at [ainnurnabila@graduate.utm.my](mailto:ainnurnabila@graduate.utm.my)
-* 🧠  I'm learning Computer Science (Data Engineering)
-* ⚡  Greetings! I am an avid enthusiast of life's vibrant rhythms, finding joy in both the graceful movements of dance and the delightful journey of food exploration. As a dedicated dancer, I immerse myself in the world of rhythm and expression, using dance as a powerful means of self-discovery and creative release. Whether it's the fluidity of contemporary dance or the energetic beats of salsa, I find solace in the language of movement. Beyond the dance floor, my passion for food hunting takes me on a delectable adventure through diverse cuisines and culinary experiences. Exploring hidden gems in bustling food markets or seeking out cozy cafes with unique flavors, I embrace the opportunity to savor the rich tapestry of tastes that the world has to offer. In the intersection of dance and food, I discover the perfect balance that adds flavor to the chapters of my life.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ain-nurnabila-39885529a/)
+[![Portfolio](https://img.shields.io/badge/E--Portfolio-View-00B894?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/bellaazharr/eportfolio-SECP3843)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ainnurnabila@graduate.utm.my)
 
-### Skills
+</div>
 
+---
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-</p>
+### 🎯 About Me
 
+I'm a Computer Science student in the Data Engineering & Business Intelligence track, currently exploring how raw, messy data becomes something a business can actually act on — from building cloud pipelines to designing dashboards people enjoy using.
 
-### Socials
+I like projects that force me to make trade-offs: speed vs. accuracy, automation vs. control, simple vs. scalable. Most of what's in this profile came from exactly those kinds of decisions.
 
-<p align="left"> <a href="https://www.github.com/bellaazharr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/ainnurnabilaa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ain nurnabila" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/bellaaazharr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@ainnurnabila9825" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@ainnurnabilaa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
+- 🔭 Currently working on **flight price prediction** using Apache Spark and a Bronze–Silver–Gold–Curated medallion architecture
+- 📊 Also contributing to a **Business Intelligence group project** analyzing market insights using Alteryx + Tableau
+- 🌱 Learning to think in **pipelines, not just scripts** — idempotency, schema drift, and data quality checks
+- 📫 Open to internships and collaborations in data engineering, analytics, or product-focused dev work
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+### 🛠️ Tech Stack
 
-<a href="http://www.github.com/bellaazharr"><img src="https://github-readme-stats.vercel.app/api?username=bellaazharr&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bellaazharr's GitHub stats" /></a>
+<div align="center">
 
-<a href="https://github.com/bellaazharr" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellaazharr&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+**Data Engineering**
+
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Business Intelligence**
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Alteryx](https://img.shields.io/badge/Alteryx-0078A8?style=flat-square&logo=alteryx&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+**App Development & Cloud**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=bellaazharr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bellaazharr&theme=tokyonight&hide_border=true" width="49%" />
+
+</div>
+
+---
+
+### 📁 Featured: E-Portfolio
+
+> 🎓 All my coursework, projects, and reflections for SECP3843 (Special Topic in Data Engineering) and related courses, organized by category.
+
+**[→ View my full E-Portfolio repository](https://github.com/bellaazharr/eportfolio-SECP3843)**
+
+Inside you'll find:
+- Industry talk & visit assignments (poster, video, report, IEEE paper)
+- Course assignment archive — Data Engineering, Business Intelligence, Cloud Computing
+- Design Thinking prototypes
+- Personal reflections on what each project taught me
+
+---
+
+<div align="center">
+
+*"Data tells a story — my job is figuring out how to make it readable."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=bellaazharr&color=00B894&style=flat-square&label=Profile+Views)
+
+</div>
