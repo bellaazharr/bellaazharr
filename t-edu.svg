@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="64" viewBox="0 0 1200 64">
+<defs>
+  <linearGradient id="ln" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff4fd8" stop-opacity=".9"/><stop offset="1" stop-color="#00E5B0" stop-opacity="0"/></linearGradient>
+  <linearGradient id="pl" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+  <feGaussianBlur stdDeviation="3.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <clipPath id="lc"><rect x="413.88" y="29.0" width="786.12" height="6"/></clipPath>
+</defs>
+<style>@keyframes run { 0% { transform: translateX(-160px) } 100% { transform: translateX(946.12px) } } .p { animation: run 3.2s linear infinite; }</style>
+<text x="40" y="40.0" font-family="JetBrains Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="20" fill="#ff4fd8" filter="url(#glow)">04</text>
+<text x="84" y="40.0" font-family="Segoe UI, Inter, Helvetica Neue, Arial, sans-serif" font-weight="700" font-size="22" letter-spacing="4" fill="#e9e4ff">EDUCATION + CERTS</text>
+<rect x="413.88" y="31.0" width="776.12" height="2" fill="url(#ln)"/>
+<g clip-path="url(#lc)"><rect class="p" x="413.88" y="30.0" width="140" height="4" fill="url(#pl)" filter="url(#glow)"/></g>
+<rect x="1186" y="28.0" width="8" height="8" fill="none" stroke="#00E5B0" transform="rotate(45 1190 32.0)"/>
+</svg>
