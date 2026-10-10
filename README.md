@@ -90,6 +90,6 @@ Engineering<br/>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=bellaazharr&color=ff4fd8&style=flat-square&label=VISITORS+LOGGED" />
+<a href="https://bellaazharr.github.io/"><img src="footer.svg" width="100%" alt="end of transmission" /></a>
 
 </div>
