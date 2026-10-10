@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" viewBox="0 0 1200 90">
+  <defs>
+    <linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#00E5B0" stop-opacity="0"/><stop offset=".5" stop-color="#ff4fd8"/><stop offset="1" stop-color="#00E5B0" stop-opacity="0"/></linearGradient>
+  </defs>
+  <style>
+    @keyframes blink { 0%,49% { opacity: 1 } 50%,100% { opacity: 0 } }
+    .cur { animation: blink 1.1s infinite; }
+  </style>
+  <rect x="100" y="18" width="1000" height="2" fill="url(#ln)"/>
+  <text x="600" y="60" text-anchor="middle" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="16" letter-spacing="4" fill="#9a92c0">END OF TRANSMISSION <tspan fill="#ff4fd8">//</tspan> BELLAAZHARR.GITHUB.IO<tspan class="cur" fill="#00E5B0">_</tspan></text>
+</svg>
