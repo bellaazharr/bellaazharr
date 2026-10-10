@@ -78,9 +78,9 @@ Engineering<br/>
 - [x] AWS Academy Cloud Foundations
 - [x] AWS Academy Cloud Developing
 - [x] AWS Academy Lab Project: Cloud Data Pipeline Builder
-- [x] Rakyat Digital: Understanding Digital Transformation
-- [x] Google: Foundations of Project Management
-- [x] Google: Agile Project Management
+- [x] Rakyat Digital: Understanding Digital Transformation (Coursera)
+- [x] Google: Foundations of Project Management (Coursera)
+- [x] Google: Agile Project Management (Coursera)
 
 </details>
 
