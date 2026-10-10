@@ -70,7 +70,7 @@ Engineering<br/>
 <sub>📄 Formal resume (PDF): <a href="https://bellaazharr.github.io/">bellaazharr.github.io</a> → Resume → Download PDF</sub>
 
 <details open>
-<summary><b>⟢ certifications unlocked</b> <sub>(5)</sub></summary>
+<summary><b>⟢ certifications unlocked</b> <sub>(8)</sub></summary>
 <br/>
 
 - [x] Microsoft Certified: Azure Data Fundamentals (AZ-900)
